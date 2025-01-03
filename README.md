@@ -1,2 +1,2 @@
 # carlhopkins.github.io
-A linktree style bootstrap site.
+A very basic linktree style bootstrap site.
